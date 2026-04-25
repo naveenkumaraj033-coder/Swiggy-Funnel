@@ -5,6 +5,10 @@ This project analyzes Swiggy’s end-to-end customer funnel to identify key fact
 
 ---
 
+## 📸 Dashboard Preview
+<img width="1165" height="654" alt="Image" src="https://github.com/user-attachments/assets/83632572-1b7f-40bb-985c-5a2ceb65b907" />
+---
+
 ## 🎯 Objective
 - Analyze customer journey across funnel stages  
 - Identify drop-offs and conversion bottlenecks  
@@ -78,10 +82,6 @@ This dashboard demonstrates how data-driven funnel analysis can help identify in
 - Perform user segmentation (location, behavior, time-based)  
 - Enhance dashboard with advanced drill-through insights  
 
----
-
-## 📸 Dashboard Preview
-(https://github.com/naveenkumaraj033-coder/Swiggy-Funnel/issues/1#issue-4327892949)
 
 ---
 

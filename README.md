@@ -81,7 +81,7 @@ This dashboard demonstrates how data-driven funnel analysis can help identify in
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](./Swiggy-funnel.png)
+(https://github.com/naveenkumaraj033-coder/Swiggy-Funnel/issues/1#issue-4327892949)
 
 ---
 
